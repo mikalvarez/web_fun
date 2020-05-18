@@ -1,0 +1,53 @@
+img{
+	display: inline-block;
+	width: 100px;
+	
+}
+
+div{
+	display: inline-block;
+}
+
+.wrapper{
+	width: 800px;
+	height: 700px;
+	background-color: #d3d1ad;
+}
+
+.main{
+	margin: 0 auto;
+	height: 400px;
+	width: 710px;
+	display: block;
+
+}
+
+.header{
+	margin: 0 auto;
+	width: 510px;
+	margin: 0 auto;
+}
+
+h1{
+
+	display: inline-block;
+
+}
+
+.blue{
+	background-color: lightblue;
+	margin: 3px
+	;	
+	padding: 15px 15px 12px 15px
+	;
+	border: 1px black;
+
+}
+
+.red{
+	background-color: #f3696f;
+	margin: 3px;
+	padding: 15px 15px 12px 15px
+
+
+}

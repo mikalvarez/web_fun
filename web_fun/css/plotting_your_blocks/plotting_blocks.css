@@ -1,0 +1,49 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+ width: 920px;
+ padding: 14px;
+ background-color: silver;
+ margin: 0px auto;
+ display: inline-block;
+}
+#header{
+ min-height: 150px;
+ padding-top: 10px;
+ background-color: green;
+}
+#navigation{
+    margin: 20px 0px 0px 0px;
+    min-height: 300px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+    background-color: 
+}
+.main_content{
+	padding: 10px;
+	margin-top: 20px;
+    min-height: 400px;
+    vertical-align: top;
+    width: 678px;
+    float: right;
+    display: inline-block;
+    background-color: red;
+}
+.subcontents{
+margin: 5px;
+display: inline-block;
+ min-height: 200px;
+ width: 210px;
+ background-color: yellow;
+
+}
+#advertisement{
+ margin: 5px;
+ min-height: 120px;
+ width: 660px;
+ background-color: purple;
+}
